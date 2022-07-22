@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "convertnsviewtopngdatamodule",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jeremyabannister/ConvertNSViewToPNGDataModule",
+      "state" : {
+        "revision" : "ceee4388d376bf346ecb9a0fb1e817ce59cddc53",
+        "version" : "0.1.0"
+      }
+    }
+  ],
+  "version" : 2
+}
